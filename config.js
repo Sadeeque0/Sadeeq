@@ -58,7 +58,8 @@ window.SITE_CONFIG = {
   // provider gave you. Leave src empty ("") to show a "not connected
   // yet" placeholder instead.
   bot: {
-    src: "https://sirdique0.github.io/Sadeeq-ai-bots/web-bot.html?bot=sdqf65bde&v=20260904-final4",
+    src:
+"https://sadeeque0.github.io/Sadeeque-ai-/embed.html?bot_id=Sdq783C418" title="Sadeeque AI" loading="lazy" style="width:100%;height:600px;border:0;" allow="clipboard-write"></iframe>
     title: "Young Sadeeque chatbot",
     allow: "clipboard-write"
   },
