@@ -1,0 +1,14 @@
+{
+  "name": "Young Sadeeque",
+  "short_name": "Young Sadeeque",
+  "description": "Official website of Young Sadeeque (Abubakar S Abdullahi).",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#EEF2FC",
+  "theme_color": "#EEF2FC",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

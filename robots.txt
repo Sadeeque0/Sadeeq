@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sirdique0.github.io/YoungSadeeque/sitemap.xml

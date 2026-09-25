@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page not found — Young Sadeeque</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+<style>
+  .notfound {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 24px;
+  }
+  .notfound .code {
+    font-family: var(--font-display);
+    font-size: clamp(3rem, 12vw, 5rem);
+    color: var(--rose-bright);
+    line-height: 1;
+  }
+  .notfound .title {
+    font-family: var(--font-display);
+    font-size: clamp(20px, 5vw, 26px);
+    color: var(--text-primary);
+    margin-top: 6px;
+  }
+  .notfound p.desc { color: var(--text-muted); margin-top: 12px; max-width: 40ch; }
+  .notfound a {
+    margin-top: 26px;
+    display: inline-flex;
+    padding: 13px 22px;
+    border-radius: 999px;
+    background: var(--gold);
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+<div class="notfound">
+  <p class="code">404</p>
+  <p class="title">This page doesn't exist</p>
+  <p class="desc">The page you're looking for may have moved. Head back to the official Young Sadeeque homepage.</p>
+  <a href="index.html">Back to homepage</a>
+</div>
+</body>
+</html>
